@@ -27,7 +27,7 @@
 -  ┣ 📜 script.js       # JavaScript logic
 # 🚀 How to Run Locally
  **Clone the repository:**
- 
+ https://programingwithdeepak.github.io/Weather-App./
 
 # 📸 Screenshot
 <img width="959" height="537" alt="image" src="https://github.com/user-attachments/assets/1cda42aa-aa21-4ec9-ae83-119688e7c342" />
